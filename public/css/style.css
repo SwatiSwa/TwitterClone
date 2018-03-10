@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.font-formatting {
+  font-family: Shadows Into Light;
+  font-size: xx-large;
+}
+
+.center-btn-span {
+  display: flex;
+  justify-content: center;
+}
+
+.center-btn {
+  margin: 2px;
+}
+
+.user-heading {
+  color : #5f6ca0;
+  display: inline-block;
+}
+
+.follower-dweets {
+  background-color: aliceblue;
+  color: #007fff;
+}
